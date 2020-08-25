@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-**by:** José Max Barrios.
+## **by:** José Max Barrios.
 
 ![](/heart.png)
 
