@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 **by:** José Max Barrios.
 
-![heart logo](/img/logo.heart.png)
+![](/heart.png)
 
 Heart Disease analysis and predictions using Machine Learning and Multillayer Perceptrons.
 
